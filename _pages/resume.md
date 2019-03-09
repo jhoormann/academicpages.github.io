@@ -24,10 +24,12 @@ The past several years I have worked as an astrophysicist using both numerical s
 ## Postdoctoral Research Fellow – University of Queensland, August 2016 – August 2019
 ### Scientific Objectives
 * Used observational data from the Australian Dark Energy Survey (OzDES) Reverberation Mapping Program to measure the mass of the supermassive black holes in the centers of distant galaxies in order to study how galaxies and black holes have changed throughout the history of the universe.
+
 ### Key Contributions
 * Developed the data calibration procedures critical to the project to correct the data taken on the Anglo-Australian Telescope to compensate for noise due to observational conditions.
 * Developed the data analysis pipeline to extract the key measurements and corresponding uncertainties from the telescope data.
 * Performed a time series analysis using the results of the analysis pipeline in order to measure black hole masses 
+
 ### Professional Outcomes
 *	Chief-Investigator of a successful proposal for supercomputing time through National Computational Infrastructure Australia.
 *	Co-Investigator of 2 successful proposals for telescope time through the National Optical Astronomy Observatory.
@@ -41,7 +43,7 @@ The past several years I have worked as an astrophysicist using both numerical s
 *	Member of the OzDES Policy and Membership Committee responsible for recruiting observers to operate the telescope and perform the preliminary data analysis. Maintained the work load record to ensure appropriate allocation of credit on results published using the data.
 *	Guest lecturer for the second year astronomy course
 
-## Postdoctoral Research Fellow – University of Queensland, August 2016 – August 2019
+## Graduate Research Fellow – Washington University in St. Louis, June 2012 – July 2016
 ### Scientific Objectives
 * Determine if it is possible to test Albert Einstein’s theory of General Relativity in the extreme environments using X-ray observations of black holes.
 *	Build a balloon-borne X-ray polarimeter, X-Calibur, predict how well such observations could be used to study the environments surrounding black holes.
@@ -85,8 +87,8 @@ The past several years I have worked as an astrophysicist using both numerical s
 *	Supervised numerous students completing both short and long term research projects
 * Organized regular meeting within the University of Queensland Astrophysics Group
 *	As a member of the Australian Dark Energy Survey
-  *	Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
-  *	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
+..*	Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
+..*	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
 *	Member of the organizing committee for numerous conferences and workshops
 
 ## Communication Experience
