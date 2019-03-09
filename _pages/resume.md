@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<h1 style="text-align: center;" markdown="1">Resume</h1>"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<h1 style="text-align: center;" markdown="1">Resume</h1>
 
 # Education
 * PhD in Physics – Washington University in St. Louis, August 2016
