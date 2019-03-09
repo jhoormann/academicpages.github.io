@@ -8,72 +8,73 @@ author_profile: true
 {% include base_path %}
 <h1 style="text-align: center;" markdown="1">Publications</h1>
 
-# Analysis Contributions
+## PhD Thesis
 
-## CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OzDES)
+### Using Simulations of Black Holes to Study General Relativity and the Properties of Inner Accretion Flow
+[Hoormann 2016](http://adsabs.harvard.edu/abs/2016PhDT........76H)
+
+## Analysis Contributions
+
+### CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OzDES)
 [Hoormann et al 2019, submitted to MNRAS](http://adsabs.harvard.edu/abs/2019arXiv190204206H)
 
-By measuring how long it takes for light to echo around the supermassive black holes found in the centers of active galaxies it is possible to measure the mass of the black hole.  Using the data from the OzDES Reverberation Mapping Program we measured the mass of two distant black holes to be over a billion times more massive than our sun!
-
-## Quasar Accretion Disk Sizes from Continuum Reverberation Mapping in the DES Standard Star Fields
+### Quasar Accretion Disk Sizes from Continuum Reverberation Mapping in the DES Standard Star Fields
 [Yu et al 2018, submitted to ApJ](http://adsabs.harvard.edu/abs/2018arXiv181103638Y)
 
-It is possible to measure the sizes of black hole acretion disks by looking at the difference in light travel times from the hot emission from close to the black hole versus colder emission from the edge of the disk.  We measured the disk size of 23 objects observed with DES and find that the disk sizess are generally consistent with the most popular theoretical model.
+### Quasar Accretion Disk Sizes from Continuum Reverberation Mapping from the Dark Energy Survey
+[Mudd et al 2017, ApJ 862:123](http://adsabs.harvard.edu/abs/2018ApJ...862..123M)
 
-## Quasar Accretion Disk Sizes from Continuum Reverberation Mapping from the Dark Energy Survey
-[Mudd et al, ApJ 862:123](http://adsabs.harvard.edu/abs/2018ApJ...862..123M)
+### Design of the Telescope Truss and Gondola for the Balloon-Borne X-ray Polarimeter X-Calibur
+[Kislat et al 2017, JAI 6:1740003](http://adsabs.harvard.edu/abs/2017JAI.....640003K)
 
-# Data Contributions
+### Studies of the Origin of High-Frequency Quasi-Periodic Oscillations of Mass-Accreting Black Holes in X-ray Binaries with Next-Generation X-Ray Telescopes
+[Behestipour, Hoormann, Krawczynski 2016, ApJ 826:203](http://adsabs.harvard.edu/abs/2016ApJ...826..203B)
 
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Simulations to Correct Supernova Distance Biases
+### Testing General Realtivity's No-Hair Theorem with X-Ray Observations of Black Holes
+[Hoormann, Behestipour, Krawczynski 2016, PRD 93:044020](http://adsabs.harvard.edu/abs/2016PhRvD..93d4020H)
+
+### X-Ray Polarimetry with the Polarizations Spectroscopic Telescope Array (PolSTAR)
+[Krawczynski et al 2016, APh 75:8](http://adsabs.harvard.edu/abs/2016APh....75....8K)
+
+## Supernova Classifications
+
+### Classification of 26 DES Supernova with OzDES
+[Calcino et al 2018, ATel 11147](http://adsabs.harvard.edu/abs/2018ATel11147....1C)
+
+### Classification of 25 DES Supernova with OzDES
+[Calcino et al 2018, ATel 11146](http://adsabs.harvard.edu/abs/2018ATel11146....1C)
+
+### Classification of 17 DES Supernova with OzDES
+[Hoormann et al 2016, ATel 9855](http://adsabs.harvard.edu/abs/2016ATel.9855....1H)
+
+## Data Contributions
+
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Simulations to Correct Supernova Distance Biases
 [Kessler et al 2019, MNRAS 485:1171](http://adsabs.harvard.edu/abs/2019MNRAS.485.1171K)
 
-The Dark Energy Survey (DES) is using observations of Type Ia supernova to study the accelerated expansion of the universe.  If the observations of the distances to the supernova are biased in any way this can alter the results of the cosmology analysis.  This paper did simulations to determine the potential biases in the distance measurements and these results can be used to correct the observed data.
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Constraints on Cosmological Parameters
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Constraints on Cosmological Parameters
 [Abbott et al 2019, ApJL 872:2](http://adsabs.harvard.edu/abs/2019ApJ...872L..30A)
 
-The accelerated expansion of the universe is caused by a still largley understood quantity called Dark Energy.  This paper presents DES's measurement of the dark energy equation of state.
-
-## Rapidly Evolving Transients in the Dark Energy Survey
+### Rapidly Evolving Transients in the Dark Energy Survey
 [Pursiainen et al 2018, MNRAS 481:894](http://adsabs.harvard.edu/abs/2018MNRAS.481..894P)
 
-The Dark Energy Supernova Program has observed many objects that vary in brightness significantly over short periods of time.  This paper looks into what what these objects could be, the best option is galaxies that are currently forming stars.
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Survey Overview and Supernova Spectroscopy
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Survey Overview and Supernova Spectroscopy
 [D'Andrea et al 2018, submitted to AJ](http://adsabs.harvard.edu/abs/2018arXiv181109565D)
 
-This paper overviews the DES Supernova Program which uses photometric and spectroscopic data to study the expansion of the unvierse using Type Ia supernova.
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Effects of Chromatic Corrections to Supernova Photometry on Measurements of Cosmological Parameters
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Effects of Chromatic Corrections to Supernova Photometry on Measurements of Cosmological Parameters
 [Lasker et al 2018, submitted to MNRAS](http://adsabs.harvard.edu/abs/2018arXiv181102380L)
 
-In order to study cosmology with Type Ia supernova high precision photometric data is needed across various color filters.  This paper focuses on how to best calibrate the photometric data and how those corrections vary depending on the filter used.
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Analysis, Systematic Uncertanties, and Validation
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Analysis, Systematic Uncertanties, and Validation
 [Brout et al 2018, submitted to ApJ](http://adsabs.harvard.edu/abs/2018arXiv181102377B)
 
-Here the analysis of 207 supernova obtained from the first 3 years of the DES supernova program are presented.  A comprehensive study of the systematic uncertanties are presented which now become important given the high caliber photometric data.  
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Measurement of the Hubble Constant
+### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Measurement of the Hubble Constant
 [Macaulay et al 2018, submitted to MNRAS](http://adsabs.harvard.edu/abs/2018arXiv181102376M)
 
-This paper combines Type Ia supernova observations made with by DES, existing supernova data, and measurements of Baryon Acoustic Oscillations to determine the expansion rate of the universe.
-
-## Cosmological Constraints from Multiple Probes in the Dark Energy Survey
+### Cosmological Constraints from Multiple Probes in the Dark Energy Survey
 [Abbott et al 2018, arXiv:1811.02375](http://adsabs.harvard.edu/abs/2018arXiv181102375D)
 
-This research confirms the existence of dark energy by combining data from four different cosmological probes - type Ia supernova, baryon acoustic oscillations, weak gravitational lensing, and galaxy clustering - all measured by the Dark Energy Survey.
-
-## First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Constraints on Cosmological Parameters
-[Abbott et al 2018, arXiv:1811:02374](http://adsabs.harvard.edu/abs/2018arXiv181102374D)
-
-Here the results from the first 3 years of the DES supernova program along with other cosmological probes in order to measure the dark energy equation of state and matter density of the universe.
-
-## DES Science Portal: Computing Photometric Redshifts
+### DES Science Portal: Computing Photometric Redshifts
 [Gschwend et al 2018, A&C 25:58](http://adsabs.harvard.edu/abs/2018A%26C....25...58G)
-
-A web based data interface, the Science Portal, was created to train and validate methods to determine photometric redshifts.  Here it is shown how the Science Portal can be used on the first year of DES data.
 
 ### Dark Energy Survey Year 1 Results: Galaxy Clustering for Combined Probes
 [Elvin-Poole et al 2018, PRD 98:042006](http://adsabs.harvard.edu/abs/2018PhRvD..98d2006E)
