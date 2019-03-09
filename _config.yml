@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janie Hoormann"
+title                    : "Janie Hoormann, PhD"
 title_separator          : "-"
 name                     : &name "Janie Hoormann"
 description              : &description " "
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Janie Hoormann"
+  name             : ""
   avatar           : "me.PNG"
   bio              : "The past several years I have worked as an astrophysicist using both numerical simulations and observational data to understand how gravity behaves in the extreme environments found around black holes.  I am looking to utilize my skills at taking large, messy data sets and extracting truths about the universe to more local problems as a data scientist."
   location         : 
