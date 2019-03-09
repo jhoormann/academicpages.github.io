@@ -45,15 +45,61 @@ The past several years I have worked as an astrophysicist using both numerical s
 ### Scientific Objectives
 * Determine if it is possible to test Albert Einstein’s theory of General Relativity in the extreme environments using X-ray observations of black holes.
 *	Build a balloon-borne X-ray polarimeter, X-Calibur, predict how well such observations could be used to study the environments surrounding black holes.
+
 ### Key Contributions
 *	Utilized and expanded upon numerical simulations to predict the signatures that would be observable from around black holes assuming different theories of gravity.
 *	Constrained how well X-ray observations of black holes could test Einstein’s theory of General Relativity
 *	Performed the predictive analysis the ability of a proposed NASA satellite mission to use X-ray polarization to study black holes. 
 *	Performed critical analysis of the telescope design of the balloon borne X-ray polarimeter, X-Calibur, to determine how it would behave in extreme temperatures and used those results to provide the solution to ensure the telescope would operate in flight.
+
 ### Professional Outcomes
 *	Authored 4 journal articles and spoke at 4 conferences/universities to present results.
+
 ### Teamwork/Managment
 *	Supervised 2 summer research students
 *	Taught introductory physics labs
 *	Co-Organizer for a special session on black hole accretion at the American Astronomical Society’s Annual High Energy Astrophysics Division Meeting 2016
 *	Co-Organizor of a workshop in numerical astrophysics
+
+# Experience
+## Programming Experience
+*	Proficient in Python (including numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica, and FORTRAN
+*	Experience with SQL and large databases
+*	Utilizes High Performance Computing systems
+*	Experienced with Linux, Windows, and Mac
+
+## Statistical Experience
+*	Time Series Analysis
+*	Monte Carlo Analysis
+*	Regression Models
+*	Confidence Intervals
+*	Hypothesis Testing
+*	Bootstrap Resampling
+
+## Teamwork Experience
+*	Works within the Dark Energy Survey – around 400 astrophysicists across Australia, USA, Europe, and South America 
+*	Member of the Australian Dark Energy Survey – around 40 astrophysicists across Australia, USA, Europe, and Asia
+*	Worked with astrophysicists and engineers from universities and government agencies across the US as part of the X-Calibur Balloon-Borne X-ray Polarimetry Experiment
+
+## Managment Experience
+*	Supervised numerous students completing both short and long term research projects
+* Organized regular meeting within the University of Queensland Astrophysics Group
+*	As a member of the Australian Dark Energy Survey
+  *	Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
+  *	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
+*	Member of the organizing committee for numerous conferences and workshops
+
+## Communication Experience
+### Technical 
+*	Presenting research results at conferences and universities
+*	Authoring peer-reviewed journal articles
+*	Lecturing university level physics courses
+
+### General Public
+*	Regularly invited to give public talks on astronomy
+*	School visits from elementary school through high school
+
+### Media
+*	Appeared on the children’s TV show, Scope
+*	Authored articles for the online magazine, The Conversation
+*	Requested for expert opinion on recent science discoveries by news outlets
