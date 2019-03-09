@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 <h1 style="text-align: center;" markdown="1">Publications</h1>
 
-## PhD Thesis
+# PhD Thesis
 
 ### Using Simulations of Black Holes to Study General Relativity and the Properties of Inner Accretion Flow
 [Hoormann 2016](http://adsabs.harvard.edu/abs/2016PhDT........76H)
 
-## Analysis Contributions
+# Analysis Contributions
 
 ### CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OzDES)
 [Hoormann et al 2019, submitted to MNRAS](http://adsabs.harvard.edu/abs/2019arXiv190204206H)
@@ -36,7 +36,7 @@ author_profile: true
 ### X-Ray Polarimetry with the Polarizations Spectroscopic Telescope Array (PolSTAR)
 [Krawczynski et al 2016, APh 75:8](http://adsabs.harvard.edu/abs/2016APh....75....8K)
 
-## Supernova Classifications
+# Supernova Classifications
 
 ### Classification of 26 DES Supernova with OzDES
 [Calcino et al 2018, ATel 11147](http://adsabs.harvard.edu/abs/2018ATel11147....1C)
@@ -47,7 +47,7 @@ author_profile: true
 ### Classification of 17 DES Supernova with OzDES
 [Hoormann et al 2016, ATel 9855](http://adsabs.harvard.edu/abs/2016ATel.9855....1H)
 
-## Data Contributions
+# Data Contributions
 
 ### First Cosmology Results Using Type Ia Supernova From the Dark Energy Survey: Simulations to Correct Supernova Distance Biases
 [Kessler et al 2019, MNRAS 485:1171](http://adsabs.harvard.edu/abs/2019MNRAS.485.1171K)
