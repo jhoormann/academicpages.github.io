@@ -75,16 +75,16 @@ Here the results from the first 3 years of the DES supernova program along with 
 
 A web based data interface, the Science Portal, was created to train and validate methods to determine photometric redshifts.  Here it is shown how the Science Portal can be used on the first year of DES data.
 
-## Dark Energy Survey Year 1 Results: Galaxy Clustering for Combined Probes
+### Dark Energy Survey Year 1 Results: Galaxy Clustering for Combined Probes
 [Elvin-Poole et al 2018, PRD 98:042006](http://adsabs.harvard.edu/abs/2018PhRvD..98d2006E)
 
-## Dark Energy Survey Year 1 Results: Redshift Distributions of the Weak-Lensing Source Galaxies
+### Dark Energy Survey Year 1 Results: Redshift Distributions of the Weak-Lensing Source Galaxies
 [Hoyle et al 2018, MNRAS 478:592](http://adsabs.harvard.edu/abs/2018MNRAS.478..592H)
 
-## Dark Energy Survey Year 1 Results: Cross-Correlation Redshifts - Methods and Systematics Characterization
+### Dark Energy Survey Year 1 Results: Cross-Correlation Redshifts - Methods and Systematics Characterization
 [Gatti et al 2018, MNRAS 477:1664](http://adsabs.harvard.edu/abs/2018MNRAS.477.1664G)
 
-## OzDES Multifibre Spectroscopy for the Dark Energy Survey: 3-yr Results and First Data Release
+### OzDES Multifibre Spectroscopy for the Dark Energy Survey: 3-yr Results and First Data Release
 [Childress et al 2017, MNRAS 472:273](http://adsabs.harvard.edu/abs/2017MNRAS.472..273C)
 
 #### What is with these crazy long author list?
