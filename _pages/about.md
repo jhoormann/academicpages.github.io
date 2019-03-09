@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Janie Hoormann: astrophysicist turned data scientist"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
