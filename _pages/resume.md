@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<Janie Hoormann aligh="center">
+<h1 style="text-align: center;" markdown="1">Janie Hoormann</h1>
 
 # Objectives
 The past several years I have worked as an astrophysicist using both numerical simulations and observational data to understand how gravity behaves in the extreme environments found around black holes.  I am looking to utilize my skills at taking large, messy data sets and extracting truths about the universe to more local problems as a data scientist.
