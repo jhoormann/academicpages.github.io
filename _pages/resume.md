@@ -59,7 +59,7 @@ redirect_from:
 *	Co-Organizer for a special session on black hole accretion at the American Astronomical Society’s Annual High Energy Astrophysics Division Meeting 2016
 *	Co-Organizor of a workshop in numerical astrophysics
 
-# Experience
+# Skills
 ## Programming Experience
 *	Proficient in Python (including numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica, and FORTRAN
 *	Experience with SQL and large databases
