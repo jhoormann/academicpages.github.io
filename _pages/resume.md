@@ -86,9 +86,9 @@ The past several years I have worked as an astrophysicist using both numerical s
 ## Managment Experience
 *	Supervised numerous students completing both short and long term research projects
 * Organized regular meeting within the University of Queensland Astrophysics Group
-*	As a member of the Australian Dark Energy Survey
-..*	Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
-..*	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
+* As a member of the Australian Dark Energy Survey
+  * Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
+  *	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
 *	Member of the organizing committee for numerous conferences and workshops
 
 ## Communication Experience
