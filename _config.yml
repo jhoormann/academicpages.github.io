@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Janie Hoormann"
 title_separator          : "-"
 name                     : &name "Janie Hoormann"
-description              : &description
+description              : &description " "
 url                      : https://jhoormann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhoormann/jhoormann.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Janie Hoormann"
   avatar           : "me.PNG"
-  bio              : "YThe past several years I have worked as an astrophysicist using both numerical simulations and observational data to understand how gravity behaves in the extreme environments found around black holes.  I am looking to utilize my skills at taking large, messy data sets and extracting truths about the universe to more local problems as a data scientist."
+  bio              : "The past several years I have worked as an astrophysicist using both numerical simulations and observational data to understand how gravity behaves in the extreme environments found around black holes.  I am looking to utilize my skills at taking large, messy data sets and extracting truths about the universe to more local problems as a data scientist."
   location         : 
   employer         :
   googlescholar    : 
