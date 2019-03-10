@@ -15,7 +15,7 @@ author_profile: true
 
 # For the Public
 
-### Curious Kids: Where do Black Holes Lead To?
+### Curious Kids: Where Do Black Holes Lead To?
 [Hoormann, The Conversation 7/9/2019](http://education.abc.net.au/newsandarticles/blog/-/b/2909756/curious-kids-where-do-black-holes-lead-to?sf193342605=1)
 
 # Analysis Contributions
