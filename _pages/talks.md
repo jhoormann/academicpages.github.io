@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-<h1 style="text-align: center;" markdown="1">Publications</h1>
+<h1 style="text-align: center;" markdown="1">Talks</h1>
 
 # Public Talks
 
