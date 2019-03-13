@@ -21,6 +21,7 @@ In 2012 I moved back to my hometown to start my PhD in physics at Washington Uni
 While I primarily worked on numerical simulations, I also dabbled in instrumentation as part of the balloon borne hard X-ray polarimetry experiment, X-Calibur.  An aluminium/carbon fiber truss holds the mirror and polarimeter in place during the flight.  The design of this truss is particularly important because the mirror has an 8 m focal length but needs to focus the light on a scattering element that is only 13 mm in diameter.  I was able to determine how the truss was likely to deform due to thermal contractions given the conditions expected during flight to ensure the truss would remain in shape throughout the flight.  I also worked on a system to track any deformations the truss might experience during the flight.  X-Calibur just completed its long duration flight in Antarctica this January!
 
 ![](../images/hooding.JPG)
+*My parents and me at my PhD hooding ceremony at Washington University in St. Louis, May 2016.* 
 
 Moving down under
 ======
