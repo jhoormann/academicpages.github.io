@@ -13,6 +13,7 @@ author_profile: true
 ### Extreme Gravity and Black Holes
 #### InspireU Indigenous STEM Camp: 2019
 Invited speaker for high school students interested in physics at the InspireU event hosted by the University of Queensland designed to engage indigenous students in STEM subjects.
+[Slides](../talks/InspireU2019.pptx)
 
 ### Extreme Environments: Gravity and Black Holes: 
 #### University of the Third Age: 2018
