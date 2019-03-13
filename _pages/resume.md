@@ -47,7 +47,7 @@ redirect_from:
 ### Key Contributions
 *	Utilized and expanded upon numerical simulations to predict the signatures that would be observable from around black holes assuming different theories of gravity.
 *	Constrained how well X-ray observations of black holes could test Einstein’s theory of General Relativity
-*	Performed the predictive analysis the ability of a proposed NASA satellite mission to use X-ray polarization to study black holes. 
+*	Performed the predictive analysis of the ability of a proposed NASA satellite mission to use X-ray polarization to study black holes. 
 *	Performed critical analysis of the telescope design of the balloon borne X-ray polarimeter, X-Calibur, to determine how it would behave in extreme temperatures and used those results to provide the solution to ensure the telescope would operate in flight.
 
 ### Professional Outcomes
