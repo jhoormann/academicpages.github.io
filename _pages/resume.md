@@ -29,7 +29,7 @@ redirect_from:
 ### Professional Outcomes
 *	Chief-Investigator of a successful proposal for supercomputing time through National Computational Infrastructure Australia.
 *	Co-Investigator of 2 successful proposals for telescope time through the National Optical Astronomy Observatory.
-*	Author on 16 journal articles and spoke at 7 conferences/universities to present results.
+*	Author on 16 journal articles and spoke at 8 conferences/universities to present results.
 
 ### Teamwork/Managment
 * Lead the OzDES Reverberation Mapping working group including approximately 10 people across the USA and Australia
