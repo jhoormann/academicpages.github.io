@@ -55,4 +55,53 @@ Invited to speak to the Brisbane Astronomical Society, the local amature astrono
 Appeared in an episode of Channel 10's children's TV show Scope on their spaced themed episode for a segment about the size of the solar system.
 [clip](https://tenplay.com.au/channel-eleven/scope/season-3/episode-151)
 
-# Professional Talks
+# Specialist Talks
+
+### 13th Australian National Institute for Theoretical Astrophysics Theory Workshop, 2019
+#### Simulating Emission from Black Hole Accretion Disks
+Swinburne University, Melbourne Australia
+
+### Astronomical Society of Australia Annual Scientific Meeting, 2018
+#### AGN Reverberation Mapping with the Australian Dark Energy Survey
+Swinburne University, Melbourne Australia
+
+### Dark Energy Survey Collaboration Meeting, 2018
+#### AGN Reverberation Mapping with the Australian Dark Energy Survey
+Texas A&M, College Station, Texas USA
+
+### Invited Seminar at Washington University in St. Louis, 2018
+#### AGN Reverberation Mapping with the Australian Dark Energy Survey
+St. Louis, Missouri USA
+
+### Dark Energy Survey Collaboration Meeting, 2017
+#### BLR Reverberation Mapping with OzDES
+University of Queensland, Brisbane Australia
+
+### Astronomical Society of Australia Annual Scientific Meeting, 2017
+#### AGN Reverberation Mapping with OzDES
+Australian National University, Canberra Australia
+
+### Dark Energy Survey Collaboration Meeting, 2017
+#### AGN Reverberation Mapping with OzDES
+University of Chicago, Chicago, Illinois USA
+
+### Invited Seminar at Monash University, 2016
+#### Using Simulations of the X-ray Emission from Black Holes to Study General Relativity in the Strong Gravity Regime
+"Using Simulations of the X-ray Emission from Black Holes to Study General Relativity in the Strong Gravity Regime
+Melbourne Australia
+
+### Invited Seminar at Ohio State University, 2016
+#### Using Simulations of the X-ray Emission from Black Holes to Dissect the Inner Regions of Accretion Flow
+Columbus, Ohio USA
+
+### 15th American Astronomical Society's High Energy Astrophysics Meeting, 2016
+#### Modeling the Observed Compton Hump Reverberation Signatures
+Naples, Flordia USA
+
+### 225th American Astronomical Society Meeting, 2015
+#### General Relativistic Ray Tracing Studies for X-ray Reverberation and Polarimetry Studies of Black Holes
+Seattle, Washington USA
+
+### X-Calbiur Collaboration Meeting, 2014
+#### Measuring Black Hole Spins with X-Calibur
+Chicago, Illinois USA
