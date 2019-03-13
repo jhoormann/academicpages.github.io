@@ -18,7 +18,7 @@ Invited speaker for high school students interested in physics at the InspireU e
 ### Extreme Environments: Gravity and Black Holes: 
 #### University of the Third Age: 2018
 Invited speaker at the University of the Third Age Winter School to teach retired members of the Brisbane community about black holes and gravity.
-[slides](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/Extreme Environments.pptx)
+[slides](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/ExtremeEnvironments.pptx)
 
 ### Careers in Maths and Physics
 #### Careers That Shape The World: 2018
@@ -34,11 +34,11 @@ Invited speaker at the University of the Third Age Winter School to teach retire
 
 ### Weighing Black Holes
 #### Flying Scientist Program: 2017
-Invited speaker at the charleville Cosmos Center as part of the Queensland Goverment and University of Queensland's Flying Scientist Program designed to engage people in regional/remote areas of Queensland in science research.
+Invited speaker at the charleville Cosmos Center as part of the Queensland Goverment and University of Queensland's Flying Scientist Program designed to engage the general public in regional/remote areas of Queensland in science research.
 
 ### Weighing Black Holes
 #### STEM Fest Showcase Evening: 2017
-Keynote speater at the STEM Fest Showcase Evening at Burpengary State Secondary College as part of their regional science fair events.
+Keynote speater at the STEM Fest Showcase Evening at Burpengary State Secondary College as part of their 7-8 grade regional science fair events.
 
 ### Weighing Black Holes with the Australain Dark Energy Survey
 #### Brisbane Astronomical Society: 2017
