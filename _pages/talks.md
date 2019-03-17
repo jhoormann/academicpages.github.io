@@ -15,8 +15,8 @@ author_profile: true
 Invited speaker for high school students interested in physics at the InspireU event hosted by the University of Queensland designed to engage indigenous students in STEM subjects.
 [Click here for slides.](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/InspireU2019.pptx)
 
-### The Conversation 2018 Yearbook Book Launch
-Invited to be a part of a panel discussion about all things outer space related with Q&A from the audience as part of The Conversation's 2018 Yearbook book launch in Brisbane.  
+### The Conversation 2018 Yearbook Launch
+Invited to be a part of a panel discussion about all things outer space related with Q&A from the audience as part of The Conversation's 2018 Yearbook launch in Brisbane.  
 [Click here for public invitation.](http://theconversation.com/youre-invited-launch-of-the-conversation-2018-yearbook-105297)
 
 ### University of the Third Age: 2018
