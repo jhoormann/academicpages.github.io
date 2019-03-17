@@ -57,7 +57,7 @@ Invited to speak to the Brisbane Astronomical Society, the local amateur astrono
 ### Channel 10: 2017
 #### Scope: Space Out Science
 Appeared in an episode of Channel 10's children's TV show Scope on their space themed episode for a segment about the size of the solar system.
-[Click here to watch the clip.](https://tenplay.com.au/channel-eleven/scope/season-3/episode-151)
+[Click here to watch the episode.](https://tenplay.com.au/channel-eleven/scope/season-3/episode-151)
 
 # Specialist Talks
 
