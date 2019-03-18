@@ -47,7 +47,7 @@ Invited speaker at the Charleville Cosmos Center as part of the Queensland Gover
 
 ### STEM Fest Showcase Evening: 2017
 #### Weighing Black Holes
-Keynote speater at the STEM Fest Showcase Evening at Burpengary State Secondary College as part of their 7-8 grade regional science fair events.
+Keynote speaker at the STEM Fest Showcase Evening at Burpengary State Secondary College as part of their 7-8 grade regional science fair events.
 [Click here for slides.](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/blackHoles_y7-8.pptx)
 
 ### Brisbane Astronomical Society: 2017
