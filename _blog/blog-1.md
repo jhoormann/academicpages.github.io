@@ -20,7 +20,7 @@ Reverberation mapping takes advantage of the fact the light emitted from AGN is 
 
 You may be thinking that sounds too simple.  You would be right.  Because the light is emitted from around the black hole in all directions you see reflections from the clouds at different times.  This is shown in the animation below.  What you actually observe is the flare from the black hole and a broad response from the clouds.
 
-Animation Here
+<br/><img src='/images/ModerateRM.gif'>
 
 Now you may be asking some more questions:  how often do these flares occurs, how long do they last, how does this effect what we observe?  These are also excellent questions.  These sources are highly variable so you will often observe flares.  We can see this in the image below.  The disk emission is highly variable but the response from the clouds looks similar but just a bit stretched for the same reason we just talked about.   To measure the time lag we measure the delay between peaks in the curves (for the interested mathematically savvy readers we do this using cross correlation functions).   
 
@@ -33,7 +33,7 @@ The last complication is due to how long it takes to observe these systems.  Som
 ## Measuring Velocities
 You have now learned how we calculate the radius the clouds orbit the black hole but there is still one more piece to the puzzle before we can get the black hole mass.   We need to know how fast the clouds are orbiting.   When we observe how the clouds respond to the flares we are actually observing how the strength of emission lines which are formed as the clouds are ionized changes.    Below we can see a video showing how the response from the clouds changes over four years for one of the AGN we observe with OzDES.  We observe this response by looking at the change in strength of emission lines formed when these clouds are ionized.  For distant AGN we can observe the C IV emission line.  We know that emission lines are always found at the same wavelength.  For example, C IV is always emitted at 145.9 nm.  However, the Doppler effect says that the wavelength of the emitted light can change if the source emitting the light is moving away from us or towards us.  If the light source is moving towards us we say it is blueshifted and the wavelength decreases.  If it is moving away from us we say it is redshifted and the wavelength increases.  As we see below this leads to a broad line shape.  The faster the clouds rotate around the black hole the stronger the red/blueshifting is and the wider the line will be.  Therefore we can measure the velocity of the clouds by measuring the width of the emission line.
 
-Animation Here
+<br/><img src='/images/velocity.gif'>
 
 ## Measuring Black Hole Mass
 Now that we have the radius of the clouds (R) and their orbital velocity (v) we can determine the black hole mass using this simple equation.
