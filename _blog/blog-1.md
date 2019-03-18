@@ -16,8 +16,7 @@ Reverberation Mapping can be used to study Active Galactic Nuclei (AGN).  AGN ar
 ## Measuring Time Delays
 Reverberation mapping takes advantage of the fact the light emitted from AGN is highly variable.  There are often flares which are emitted from the accretion disk, near the black hole, as matter is getting pulled in.  As shown in the animation below, some of this light goes directly to an observer while some of it gets reflected off the clouds before coming to us.  We can measure the time delay between when we first see the flare and when we see the light reflected from the cloud.  We now know how long it takes for light to get to the clouds and the speed light travels (c=3 x 10<sup>8</sup> m/s) we can determine the radius of the clouds.  Remember from your school days that distance traveled = velocity x time.  
 
-![](../images/SimpleRM.gif)
-
+Animation Here
 You may be thinking that sounds too simple.  You would be right.  Because the light is emitted from around the black hole in all directions you see reflections from the clouds at different times.  This is shown in the animation below.  What you actually observe is the flare from the black hole and a broad response from the clouds.
 
 Animation Here
