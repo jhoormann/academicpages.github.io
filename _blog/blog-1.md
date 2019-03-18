@@ -11,7 +11,7 @@ Reverberation Mapping is a technique which instead uses time delays to measure t
 
 Reverberation Mapping can be used to study Active Galactic Nuclei (AGN).  AGN are the highly luminous central regions of galaxies that house a supermassive black hole surrounded by a hot accretion disk which is formed as matter gets pulled into the black hole.   We can see the geometry of the system below.  The supermassive black hole is in the center of the galaxy and is a surrounded by an accretion disk which extends out to a radius of a few light days (1 light day = 26 billion km).  Then, further out, there are clouds orbiting at a radius of light weeks to months that form what is known as the Broad Line Region.
 
-Diagram Here
+![](../images/AGN.png)
 
 ## Measuring Time Delays
 Reverberation mapping takes advantage of the fact the light emitted from AGN is highly variable.  There are often flares which are emitted from the accretion disk, near the black hole, as matter is getting pulled in.  As shown in the animation below, some of this light goes directly to an observer while some of it gets reflected off the clouds before coming to us.  We can measure the time delay between when we first see the flare and when we see the light reflected from the cloud.  We now know how long it takes for light to get to the clouds and the speed light travels (c=3 x 10<sup>8</sup> m/s) we can determine the radius of the clouds.  Remember from your school days that distance traveled = velocity x time.  
