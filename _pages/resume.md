@@ -41,8 +41,8 @@ redirect_from:
 
 ## Graduate Research Fellow – Washington University in St. Louis, June 2012 – July 2016
 ### Scientific Objectives
-* Determine if it is possible to test Albert Einstein’s theory of General Relativity in the extreme environments using X-ray observations of black holes.
-*	Build a balloon-borne X-ray polarimeter, X-Calibur, predict how well such observations could be used to study the environments surrounding black holes.
+* Determine if it is possible to test Albert Einstein’s theory of General Relativity in extreme environments using X-ray observations of black holes.
+*	Build a balloon-borne X-ray polarimeter, X-Calibur, and predict how well such observations could be used to study the environments surrounding black holes.
 
 ### Key Contributions
 *	Utilized and expanded upon numerical simulations to predict the signatures that would be observable from around black holes assuming different theories of gravity.
