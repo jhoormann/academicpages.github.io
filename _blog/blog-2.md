@@ -1,6 +1,6 @@
 ---
 title: "The Australian Dark Energy Survey"
-excerpt: "Read this to learn about the motivation behind the Australian Dark Energy Survey. <br/><img src='/images/Slide1.png '>"
+excerpt: "Read this to learn about the motivation behind the Australian Dark Energy Survey. <br/><img src='/images/Slide1.PNG '>"
 collection: blog
 ---
 
