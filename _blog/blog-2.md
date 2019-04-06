@@ -18,7 +18,7 @@ My first observing trip to the Anglo Australian Telescope during Thanksgiving 20
 The Australian Dark Energy Survey (OzDES) is the spectroscopic follow up of DES.  Spectroscopy is when you use an instrument to divide up the light you observe based on its wavelength (think shining a light through a prism to get a rainbow).  This is useful because it allows you to get a detailed look at how the light we observe from a source depends on the energy of the photon.  You can also use a spectrograph to see the emission lines which are formed by different chemical reactions in the source.  Photometry is useful because it allows you to get information about a large number of sources at once, anything that shows up in the image.  Spectroscopy give you more detailed information of the source but is much harder to get. 
 
 </br>
-<img src=”/images/2dfmirror.png”>
+<img src='/images/2dfmirror.png'>
 <figcaption>
 The 2dF fiber positioning robot which places the optical fibers exactly where they need to be in order to get a spectrum for a given source (left).  The right image shows the mirror of the AAT.
 </figcaption>
@@ -26,7 +26,7 @@ The 2dF fiber positioning robot which places the optical fibers exactly where th
 OzDES uses the 2dF+AAOmega spectrograph on the Anglo Australian Telescope (AAT) at the Siding Springs Observatory.  2dF allows you to place optical fibers on the exact sources you want to get spectra for. Every time you point the telescope you can 392 spectra at a time.  OzDES is a 6 year survey primarily designed to get redshifts (which is essentially a measure of distance) of the galaxies which house the supernova discovered by DES.  It does this by targeting the same 10 fields as the DES supernova program about once a month.  
 
 </br>
-<img src=”/images/controlCombined.png”>
+<img src='/images/controlCombined.png'>
 <figcaption>
 The AAT control room.  The left shows where the visiting astronomers sit to configure the instrument based on their observational requirements.   As the night progresses it is also where they will begin performing data reduction.  The right image shows where the night technician sits to control the telescope itself.   
 </figcaption>
