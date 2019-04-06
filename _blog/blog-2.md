@@ -1,6 +1,6 @@
 ---
 title: "The Australian Dark Energy Survey"
-excerpt: "Read this to learn about the motivation behind the Australian Dark Energy Survey. <br/><img src='/images/aatlandscape.jpg '>"
+excerpt: "Read this to learn about the motivation behind the Australian Dark Energy Survey. <br/><img src='/images/Slide1.png '>"
 collection: blog
 ---
 
@@ -8,7 +8,7 @@ collection: blog
 
 It all started many years with the Dark Energy Survey (DES).  DES is a 6 year survey designed to study dark energy, the mysterious quantity which is causing the accelerated expansion of our universe.  To do this a team of over 400 astronomers spanning seven countries used a state of the art imaging camera with 5 optical filters (DECam) on the Blanco Telescope in Chile.  The survey officially started in 2013 and took it final data this January.  With DES we get photometric data which is when you measure how bright an object based off an image.  If you do this using multiple filters you can get information about much light is being emitted from that object at different energies.  Photometry is a powerful observational tool because it allows you to image large portions of the sky.  DES focused on mapping around 1/8th of the sky 10 times over the course of the survey.  In addition they targeted 10 fields, around 30 <sup>2</sup> in total, once a week in order to detect supernova which can be used and standard candles to measure the expansion rate of the universe.  You can learn more about all of the cool science DES is doing visit [this website](https://www.darkenergysurvey.org/).
 
-</br><img src='/images/meAAT.png'>
+<img src='/images/meAAT.png'>
 <figcaption>
 My first observing trip to the Anglo Australian Telescope during Thanksgiving 2016. 
 </figcaption>
@@ -17,7 +17,6 @@ My first observing trip to the Anglo Australian Telescope during Thanksgiving 20
 
 The Australian Dark Energy Survey (OzDES) is the spectroscopic follow up of DES.  Spectroscopy is when you use an instrument to divide up the light you observe based on its wavelength (think shining a light through a prism to get a rainbow).  This is useful because it allows you to get a detailed look at how the light we observe from a source depends on the energy of the photon.  You can also use a spectrograph to see the emission lines which are formed by different chemical reactions in the source.  Photometry is useful because it allows you to get information about a large number of sources at once, anything that shows up in the image.  Spectroscopy give you more detailed information of the source but is much harder to get. 
 
-</br>
 <img src='/images/2dfmirror.png'>
 <figcaption>
 The 2dF fiber positioning robot which places the optical fibers exactly where they need to be in order to get a spectrum for a given source (left).  The right image shows the mirror of the AAT.
@@ -25,7 +24,6 @@ The 2dF fiber positioning robot which places the optical fibers exactly where th
 
 OzDES uses the 2dF+AAOmega spectrograph on the Anglo Australian Telescope (AAT) at the Siding Springs Observatory.  2dF allows you to place optical fibers on the exact sources you want to get spectra for. Every time you point the telescope you can 392 spectra at a time.  OzDES is a 6 year survey primarily designed to get redshifts (which is essentially a measure of distance) of the galaxies which house the supernova discovered by DES.  It does this by targeting the same 10 fields as the DES supernova program about once a month.  
 
-</br>
 <img src='/images/controlCombined.png'>
 <figcaption>
 The AAT control room.  The left shows where the visiting astronomers sit to configure the instrument based on their observational requirements.   As the night progresses it is also where they will begin performing data reduction.  The right image shows where the night technician sits to control the telescope itself.   
