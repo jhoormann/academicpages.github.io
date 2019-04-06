@@ -9,9 +9,7 @@ collection: blog
 It all started many years with the Dark Energy Survey (DES).  DES is a 6 year survey designed to study dark energy, the mysterious quantity which is causing the accelerated expansion of our universe.  To do this a team of over 400 astronomers spanning seven countries used a state of the art imaging camera with 5 optical filters (DECam) on the Blanco Telescope in Chile.  The survey officially started in 2013 and took it final data this January.  With DES we get photometric data which is when you measure how bright an object based off an image.  If you do this using multiple filters you can get information about much light is being emitted from that object at different energies.  Photometry is a powerful observational tool because it allows you to image large portions of the sky.  DES focused on mapping around 1/8th of the sky 10 times over the course of the survey.  In addition they targeted 10 fields, around 30 <sup>2</sup> in total, once a week in order to detect supernova which can be used and standard candles to measure the expansion rate of the universe.  You can learn more about all of the cool science DES is doing visit [this website](https://www.darkenergysurvey.org/).
 
 </br><img src=”/images/meAAT.png”>
-<figcaption>
-My first observing trip to the Anglo Australian Telescope during Thanksgiving 2016. 
-</figcaption>
+
 
 ## The Australian Dark Energy Survey (OzDES)
 
