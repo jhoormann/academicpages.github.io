@@ -1,6 +1,6 @@
 ---
-title: "The Australian Dark Energy Survey"
-excerpt: "Read this to learn about the motivation behind the Australian Dark Energy Survey. <br/><img src='/images/Slide1.PNG '>"
+title: "OzDES: The Australian Dark Energy Survey"
+excerpt: "Learn about the movtivation behind the Australian Dark Energy Survey and how we can use it to measure black hole masses. <br/><img src='/images/Slide1.PNG '>"
 collection: blog
 ---
 
