@@ -4,4 +4,4 @@ excerpt: "OzDES_calibSpec is the publically available code I have developed to p
 collection: blog
 ---
 
-OzDES_calibSpec is a publically available code and can be found at https://github.com/jhoormann/OzDES_calibSpec.
+OzDES_calibSpec is a publically available code which can be found at https://github.com/jhoormann/OzDES_calibSpec.
