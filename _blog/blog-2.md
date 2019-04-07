@@ -10,7 +10,7 @@ It all started many years with the Dark Energy Survey (DES).  DES is a 6 year su
 
 <img src='/images/meAAT.png'>
 <figcaption>
-My first observing trip to the Anglo Australian Telescope during Thanksgiving 2016.
+My first observing trip to the Anglo Australian Telescope during Thanksgiving 2016.  In the left image I am watching the sunset from the catwalk which you can just make out below the dome on the right image of the entire telescope.
 </figcaption>
 
 ## The Australian Dark Energy Survey (OzDES)
