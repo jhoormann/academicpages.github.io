@@ -18,6 +18,6 @@ The left panel shows the uncalibrated spectrum for every observation of the F-st
 
 <img src='/images/fstarcalib.png'>
 <figcaption>
-The top panel shows the calibrated spectra for FSC0225m0444, the same as in the right panel of the above figure.  The second panel shows the root mean spectrum of the data in the top panel, which shows the variation between each observation.  The bottom panel shows the percent variation.  On the whole the variation is less than 5% with larger variations at low wavelengths due to noise in the detectors and a bump at 5700 Angstroms which is where the two arms of the spectrograph are spliced together to create the spectrum.  
+Figure 2 from Hoormann et al 2019. The top panel shows the calibrated spectra for FSC0225m0444, the same as in the right panel of the above figure.  The second panel shows the root mean spectrum of the data in the top panel, which shows the variation between each observation.  The bottom panel shows the percent variation.  On the whole the variation is less than 5% with larger variations at low wavelengths due to noise in the detectors and a bump at 5700 Angstroms which is where the two arms of the spectrograph are spliced together to create the spectrum.  
 </figcaption>
 
