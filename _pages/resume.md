@@ -16,6 +16,52 @@ redirect_from:
 * AM in Physics – Washington University in St. Louis, May 2014
 * BS in Astrophysics and Mathematics – Baylor University, May 2012
 
+# Skills
+## Programming Experience
+*	Proficient with Python (numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica
+
+* Familiar with FORTRAN, scikit-learn, Unix shell scripting , git, SQL queries of 40 TB database, and high performance computing systems
+
+## Statistical Experience
+*	Proficient at utilizing statistical methods such as time series analysis, Monte Carlo analysis, regression models, confidence intervals, hypothesis testing, bootstrap resampling
+
+* Familiar with Gaussian processes,  clustering, and classification methods
+
+## Teamwork Experience
+* Member of the Dark Energy Survey (DES)
+  * 400 astronomers across 7 countries
+
+* Member of the Australian Dark Energy Survey (OzDES)
+  * 40 astronomers across Australia, USA, Europe, and Asia
+
+* Member of the X-Calibur Balloon-Borne X-ray Polarimetry Experiment
+  * 15 astronomers and engineers from USA universities and government
+
+
+## Managment Experience
+* Primary supervisor for 6 student research projects: undergrad through PhD
+
+* Lead OzDES Reverberation Mapping working group
+  * 10 people across the USA and Australia
+
+* Organizing committee for conference and workshops
+
+* Taught introductory physics labs
+
+
+## Communication Experience
+* Technical 
+  * Spoke at 12 conferences/invited seminars
+  * Author on 20 peer-reviewed journal articles 
+  * Co-investigator for 5 successful telescope/supercomputing proposals 
+
+* General Public
+  * 9 invited public talks
+  * Contributor to online magazine
+  * Expert consultant for news outlet
+  * Appearance on science TV show
+
+
 # Employment
 ## Postdoctoral Research Fellow – University of Queensland, August 2016 – August 2019
 ### Scientific Objectives
@@ -59,45 +105,3 @@ redirect_from:
 *	Co-Organizer for a special session on black hole accretion at the American Astronomical Society’s Annual High Energy Astrophysics Division Meeting 2016
 *	Co-Organizor of a workshop in numerical astrophysics
 
-# Skills
-## Programming Experience
-*	Proficient in Python (including numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica, and FORTRAN
-*	Experience with SQL and large databases
-*	Utilizes High Performance Computing systems
-*	Experienced with Linux, Windows, and Mac
-
-## Statistical Experience
-*	Time Series Analysis
-*	Monte Carlo Analysis
-*	Regression Models
-*	Confidence Intervals
-*	Hypothesis Testing
-*	Bootstrap Resampling
-
-## Teamwork Experience
-*	Works within the Dark Energy Survey – around 400 astrophysicists across Australia, USA, Europe, and South America 
-*	Member of the Australian Dark Energy Survey – around 40 astrophysicists across Australia, USA, Europe, and Asia
-*	Worked with astrophysicists and engineers from universities and government agencies across the US as part of the X-Calibur Balloon-Borne X-ray Polarimetry Experiment
-
-## Managment Experience
-*	Supervised numerous students completing both short and long term research projects
-* Organized regular meeting within the University of Queensland Astrophysics Group
-* As a member of the Australian Dark Energy Survey
-  * Organize collaboration-wide conference calls  and assign observing and preliminary data analysis responsibilities
-  *	Manage the OzDES Reverberation Mapping Working Group – Around 10 people across the USA and Australia
-*	Member of the organizing committee for numerous conferences and workshops
-
-## Communication Experience
-### Technical 
-*	Presenting research results at conferences and universities
-*	Authoring peer-reviewed journal articles
-*	Lecturing university level physics courses
-
-### General Public
-*	Regularly invited to give public talks on astronomy
-*	School visits from elementary school through high school
-
-### Media
-*	Appeared on the children’s TV show, Scope
-*	Authored articles for the online magazine, The Conversation
-*	Requested for expert opinion on recent science discoveries by news outlets
