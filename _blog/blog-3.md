@@ -11,7 +11,7 @@ right.
 
 <br/><img src='/images/LCVariation.gif'>
 The change in line strength corresponds to flares which occur right around the black hole.  However, there are other factors which could cause variations to appear which have nothing to do with underlying physics of black holes.  
-
+<br/>
 A number of things could happen to effect the shape of the spectrum we observe.  Something as simple as a wispy cloud floating above the telescope while we are observing could block some of the light and make the source appear dimmer.    Also, because of the orbit of the earth, even though we are looking at the same patch of the universe over and over again, the fields we target will appear in different parts of the sky based on the time of year we observe them.  If we observe something just above the horizon the light will have to travel through more atmosphere than if we observe it when it directly overhead.  This can also cause changes in what we observe.  Another effect is due to the experimental set-up.  OzDES uses a system called 2dF which allows you to place optical fibers exactly where you expect the source you want to observe to be.  Ideally the optical fiber is positioned at the center of the galaxy in order to collect all the light that it emits.  This is shown in the left panel of the image below.  However, it is possible for the fiber to be offset (right) meaning that we will be unable to collect light from parts of the galaxy.
 
 <img src='/images/misplacedfiber.png'>
