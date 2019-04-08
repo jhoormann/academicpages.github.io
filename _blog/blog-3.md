@@ -4,7 +4,7 @@ excerpt: "OzDES_calibSpec is the publically available code I have developed to p
 collection: blog
 ---
 
-OzDES_calibSpec is a publically available code which can be found at https://github.com/jhoormann/OzDES_calibSpec. This methodlogy was first presented in the paper [CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OZDES)](https://arxiv.org/abs/1902.04206) by Hoormann et al 2019.
+OzDES_calibSpec is a publically available code which can be found at [github.com/jhoormann/OzDES_calibSpec](https://github.com/jhoormann/OzDES_calibSpec). This methodlogy was first presented in the paper [CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OZDES)](https://arxiv.org/abs/1902.04206) by Hoormann et al 2019.
 
 Reverberation mapping (RM) works by measuring variations in the size of emission lines in order to measure the response from the clouds (go to [this blog]( https://jhoormann.github.io/blog/blog-1/) to learn more about how RM works).  In the video below you can see how this works.  This video show the C IV emission line as observed by OzDES for the active galaxy DES J0033-42 as it changes over time.  You can see that emission line changes in size which translates to a change in flux in the light curve shown in the panel on the top 
 right.  
