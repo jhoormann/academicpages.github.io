@@ -44,7 +44,7 @@ redirect_from:
 * Lead OzDES Reverberation Mapping working group
   * 10 people across the USA and Australia
 
-* Organizing committee for conference and workshops
+* Organizing committee for conferences and workshops
 
 * Taught introductory physics labs
 
