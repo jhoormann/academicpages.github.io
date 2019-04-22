@@ -56,7 +56,7 @@ Keynote speaker at the STEM Fest Showcase Evening at Burpengary State Secondary 
 [Click here for slides.](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/blackHoles_y7-8.pptx)
 
 ### Brisbane Astronomical Society: 2017
-#### Weighing Black Holes with the Australain Dark Energy Survey
+#### Weighing Black Holes with the Australian Dark Energy Survey
 Invited to speak to the Brisbane Astronomical Society, the local amateur astronomy club, about my research into black holes.
 [Click here for slides.](https://github.com/jhoormann/jhoormann.github.io/tree/master/_talks/bas2017.pdf)
 
