@@ -97,7 +97,7 @@ University of Chicago, Chicago, Illinois USA
 
 ### Invited Seminar at Monash University, 2016
 #### Using Simulations of the X-ray Emission from Black Holes to Study General Relativity in the Strong Gravity Regime
-Melboure, Australia
+Melbourne, Australia
 
 ### Invited Seminar at Ohio State University, 2016
 #### Using Simulations of the X-ray Emission from Black Holes to Dissect the Inner Regions of Accretion Flow
