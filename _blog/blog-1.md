@@ -1,6 +1,6 @@
 ---
 title: "How To Measure Black Hole Masses"
-excerpt: "Reveberation Mapping is a techique used to measure the mass of distant black holes.  Read this to learn how!<br/><img src='/images/RMDiagram.png'>"
+excerpt: "Reverberation Mapping is a techique used to measure the mass of distant black holes.  Read this to learn how!<br/><img src='/images/RMDiagram.png'>"
 collection: blog
 ---
 
