@@ -32,7 +32,7 @@ The summer of 2016 (or winter for those in the southern hemisphere!) proved to b
 
 ![](../images/AATKangaroo.jpg)
 
-*The Anglo Australian Telescope at Siding Springs Observatory, NSW Australia.  Around dusk kangaroos can often be seen guarding the telecope!*
+*The Anglo Australian Telescope at Siding Springs Observatory, NSW Australia.  Around dusk kangaroos can often be seen guarding the telescope!*
 
 What I want to do with my life
 ======
