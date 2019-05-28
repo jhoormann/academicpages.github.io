@@ -9,6 +9,10 @@ author_profile: true
 <h1 style="text-align: center;" markdown="1">Talks</h1>
 
 # Public Talks
+### Pint of Science Festival: 2019
+#### Extreme Environments: Gravity and Black Holes
+Speaker at the 2019 Pint of Science Festival in Brisbane as part of the sold out Astronomy and Quantum Mechanics session, 'Get Outer This World.'
+[Click here for website.](https://pintofscience.com.au/event/get-outer-this-world)
 
 ### InspireU Indigenous STEM Camp: 2019
 #### Extreme Gravity and Black Holes
