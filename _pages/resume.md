@@ -51,12 +51,12 @@ redirect_from:
 
 ## Communication Experience
 * Technical 
-  * Spoke at 12 conferences/invited seminars
+  * Spoke at 13 conferences/invited seminars
   * Author on 20 peer-reviewed journal articles 
   * Co-investigator for 5 successful telescope/supercomputing proposals 
 
 * General Public
-  * 9 invited public talks
+  * 10 invited public talks
   * Contributor to online magazine
   * Expert consultant for news outlet
   * Appearance on science TV show
@@ -79,7 +79,7 @@ redirect_from:
   * worth approximately  $130,000
   * 4 currently submitted for consideration
 * Author on 16 journal articles 
-* Presented at 8 conferences/universities
+* Presented at 9 conferences/universities
 
 
 ### Teamwork/Managment
