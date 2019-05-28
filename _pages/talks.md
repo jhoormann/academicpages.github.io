@@ -70,6 +70,9 @@ Appeared in an episode of Channel 10's children's TV show Scope on their space t
 [Click here to watch the episode.](https://tenplay.com.au/channel-eleven/scope/season-3/episode-151)
 
 # Specialist Talks
+### CosKASI Conference: The Correlated Universe, 2019
+#### Black Hole Mass Measurements with the Australian Dark Energy Survey (OzDES)
+Jeju Island, South Korea
 
 ### 13th Australian National Institute for Theoretical Astrophysics Theory Workshop, 2019
 #### Simulating Emission from Black Hole Accretion Disks
