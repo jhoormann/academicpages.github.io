@@ -18,14 +18,14 @@ redirect_from:
 
 # Skills
 ## Programming Experience
-*	Proficient with Python (numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica
+*	Proficient with Python (numpy, scipy, pandas), C++, ROOT Data Analysis Framework, Mathematica, Windows, Unix, Microsoft Office (Word, PowerPoint, Excel)
 
-* Familiar with FORTRAN, scikit-learn, Unix shell scripting , git, SQL queries of 40 TB database, and high performance computing systems
+* Familiar with FORTRAN, scikit-learn, Unix shell scripting, git, SQL, and high performance computing systems
 
 ## Statistical Experience
 *	Proficient at utilizing statistical methods such as time series analysis, Monte Carlo analysis, regression models, confidence intervals, hypothesis testing, bootstrap resampling
 
-* Familiar with Gaussian processes,  clustering, and classification methods
+* Familiar with Gaussian processes, clustering, and classification methods, decision trees/random forest
 
 ## Teamwork Experience
 * Member of the Dark Energy Survey (DES)
@@ -75,9 +75,7 @@ redirect_from:
 
 
 ### Professional Outcomes
-* Co-Investigator on 5 successful proposals for telescope/computing time 
-  * worth approximately  $130,000
-  * 4 currently submitted for consideration
+* Co-Investigator on 6 successful proposals for telescope/computing time 
 * Author on 16 journal articles 
 * Presented at 9 conferences/universities
 
