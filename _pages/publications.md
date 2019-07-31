@@ -24,7 +24,7 @@ author_profile: true
 # Analysis Contributions
 
 ### CIV Black Hole Mass Measurements with the Australian Dark Energy Survey (OzDES)
-[Hoormann et al 2019, accepted to MNRAS](http://adsabs.harvard.edu/abs/2019arXiv190204206H)
+[Hoormann et al 2019, MNRAS 487:3](http://adsabs.harvard.edu/abs/2019arXiv190204206H)
 
 ### Quasar Accretion Disk Sizes from Continuum Reverberation Mapping in the DES Standard Star Fields
 [Yu et al 2018, submitted to ApJ](http://adsabs.harvard.edu/abs/2018arXiv181103638Y)
