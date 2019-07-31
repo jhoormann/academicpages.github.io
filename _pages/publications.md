@@ -15,8 +15,11 @@ author_profile: true
 
 # For the Public
 
-### Curious Kids: Where Do Black Holes Lead To?
-[Hoormann, The Conversation 7/9/2019](http://education.abc.net.au/newsandarticles/blog/-/b/2909756/curious-kids-where-do-black-holes-lead-to?sf193342605=1)
+### The Conversation Curious Kids: Where Do Black Holes Lead To?
+[Hoormann, The Conversation 7/9/2018](https://theconversation.com/curious-kids-where-do-black-holes-lead-to-98557)
+
+### The Conversation Curious Kids: Can Earth be Affected by a Black Hole in the Future?
+[Hoormann, The Conversation 7/21/2019](https://theconversation.com/curious-kids-can-earth-be-affected-by-a-black-hole-in-the-future-118181)
 
 # Analysis Contributions
 
